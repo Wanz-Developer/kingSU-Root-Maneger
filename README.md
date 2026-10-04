@@ -4,13 +4,8 @@ kingSU adalah aplikasi manajemen hak akses sistem tingkat tinggi dan alat kustom
 
 ## 📸 Antarmuka Aplikasi (Screenshots)
 
-| Dashboard UI | Terminal & Console | App Freezer & Tweaks |
-| :---: | :---: | :---: |
-| <img src="Screenshot_2026-10-05-02-34-5.png" width="250" alt="Dashboard"/> | <img src="Screenshot_2026-10-05-02-35-0.png" width="250" alt="Terminal"/> | <img src="Screenshot_2026-10-05-02-35-1.png" width="250" alt="Freezer"/> |
+*Silakan klik daftar file gambar di bagian atas repositori untuk melihat screenshot lengkap seluruh halaman aplikasi KingSU secara penuh.*
 
-| Modul Manager | Penyamaran Root | Installer Screen |
-| :---: | :---: | :---: |
-| <img src="Screenshot_2026-10-05-02-35-2.png" width="250" alt="Modules"/> | <img src="Screenshot_2026-10-05-02-35-3.png" width="250" alt="Stealth"/> | <img src="Screenshot_2026-10-05-02-35-4.png" width="250" alt="Installer"/> |
 
 ## 🚀 Fitur Utama
 
